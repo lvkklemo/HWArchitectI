@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0' #手机的系统
+inhibit_all_warnings!
+use_frameworks!
+target 'HWArchitectExample' do #工程名字
+  pod "BaiduMapKit" #百度地图SDK
+  pod "AMap3DMap" #百度地图SDK
+  pod "AMapSearch" #百度地图SDK
+  pod "AMapLocation" #百度地图SDK
+end

@@ -1,0 +1,14 @@
+[
+    {
+        "ids":1,
+        "appkey":"mPZiIaX1vYGR5VlV3pnV5NoG2rdzyGww",
+        "factoryName":"BaiduMapFactory",
+        "isOpen":1
+    },
+    {
+        "ids":2,
+        "appkey":"65d57546e16c22c0389439ed94ef5eyy",
+        "factoryName":"GaodeMapFactory",
+        "isOpen":0
+    }
+]
